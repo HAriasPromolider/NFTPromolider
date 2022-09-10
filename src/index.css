@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  scroll-behavior: smooth;
+  scroll-padding-top: 10rem;
+  font-size: 10px;
+  color: white;
+  background: linear-gradient(113.49deg, #131b1C -1000.3%, #131b1C 50.12%);
+  font-family: "Poppins", sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
